@@ -6,7 +6,7 @@ string input;
 int Stack[100] = {0};
 
 int main(){
-    int temp = 0 , top = -1;
+    double temp = 0 , top = -1;
     int op1 , op2;
     
     while(cin >> input){
